@@ -1,7 +1,2 @@
 
-#include <linux_linked_list.h>
-
-int main(void)
-{
-    return 0;
-}
+// dummy file used to create library
